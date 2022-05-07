@@ -6,7 +6,7 @@ I have some experince with **Assembly Langauge**. Worked on **Intel 8085** durin
 
 Gonna be strict with the comments :)
 
-  System: Raspberry Pi 3b+ 
+  System: Raspberry Pi 3b+ (ARM Based)
   
   ## Will keep you all updated!! 
   
