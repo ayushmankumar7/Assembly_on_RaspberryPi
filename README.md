@@ -9,4 +9,11 @@ Gonna be strict with the comments :)
   System: Raspberry Pi 3b+ (ARM Based)
   
   ## Will keep you all updated!! 
-  
+
+
+## Common Way to Run the Scripts
+```
+as -o xyz.o xyz.s
+gcc -o xyz xyz.o
+./xyz ; echo $?
+```  
